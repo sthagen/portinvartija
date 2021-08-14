@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 # pylint: disable=line-too-long
-"""later."""
+"""Command line interface operations for data driven topics.."""
 import sys
 from typing import List, Union
 
