@@ -1,7 +1,7 @@
 first>=2.0.2
 jmespath>=0.10.0
 jsonschema>=3.2.0
-https://github.com/sthagen/kdl-py/archive/refs/tags/v0.1.5.1-fork.tar.gz
+kdl-py @ https://github.com/sthagen/kdl-py/archive/refs/tags/v0.1.5.1-fork.tar.gz
 lxml>=4.6.3
 orjson>=3.6.1
 PyYAML>=5.4.1
