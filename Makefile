@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := all
 isort = isort portinvartija tests
-black = black -S -l 120 --target-version py38 portinvartija tests
+black = black -S -l 120 --target-version py39 portinvartija tests
 
 .PHONY: install
 install:
