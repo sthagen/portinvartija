@@ -2,7 +2,7 @@
 [tool.pyflow]
 name = "portinvartija"
 py_version = "3.9"
-version = "0.1.0"
+version = "0.0.1"
 authors = ["Stefan Hagen <stefan@hagen.link>"]
 
 [tool.pyflow.scripts]
