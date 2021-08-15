@@ -1,5 +1,10 @@
-geojson-pydantic>=0.2.3
-geopy>=2.1.0
-numpy>=1.20.3
-pandas>=1.2.4
-watchgod>=0.7
+first>=2.0.2
+jmespath>=0.10.0
+jsonschema>=3.2.0
+kdl-py>=0.1.5
+lxml>=4.6.3
+orjson>=3.6.1
+PyYAML>=5.4.1
+toml>=0.10.2
+typer>=0.3.2
+xmlschema>=1.7.0
