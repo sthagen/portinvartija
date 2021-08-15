@@ -5,7 +5,7 @@
 import sys
 from typing import List, Union
 
-import portinvartija.api as api
+import portinvartija.portinvartija as api
 
 
 # pylint: disable=expression-not-assigned
