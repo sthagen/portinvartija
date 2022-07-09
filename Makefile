@@ -1,16 +1,16 @@
 .DEFAULT_GOAL := all
-isort = isort portinvartija tests
-black = black -S -l 120 --target-version py39 portinvartija tests
+isort = isort portinvartija test
+black = black -S -l 120 --target-version py39 portinvartija test
 
 .PHONY: install
 install:
 	pip install -U pip wheel
-	pip install -r tests/requirements.txt
+	pip install -r test/requirements.txt
 	pip install -U .
 
 .PHONY: install-all
 install-all: install
-	pip install -r tests/requirements-dev.txt
+	pip install -r test/requirements-dev.txt
 
 .PHONY: format
 format:
@@ -20,7 +20,7 @@ format:
 .PHONY: lint
 lint:
 	python setup.py check -ms
-	flake8 portinvartija/ tests/
+	flake8 portinvartija/ test/
 	$(isort) --check-only --df
 	$(black) --check --diff
 
