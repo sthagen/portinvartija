@@ -133,3 +133,4 @@ dmypy.json
 .idea
 local_*
 .vscode/
+current-bandit.json
