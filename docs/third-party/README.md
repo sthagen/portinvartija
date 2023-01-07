@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/portinvartija/blob/default/sbom.json) with SHA256 checksum ([74210a30 ...](https://git.sr.ht/~sthagen/portinvartija/blob/default/sbom.json.sha256 "sha256:74210a30c00000d4b78206b0650a9aef2b3f1f62463b7cdaaec91708a558f663")).
-<!--[[[end]]] (checksum: 74134975ab7c043b6e747abdec7fe692)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/portinvartija/blob/default/sbom.json) with SHA256 checksum ([fece2adc ...](https://git.sr.ht/~sthagen/portinvartija/blob/default/sbom.json.sha256 "sha256:fece2adcf7048e874b69422ce5eddaa5a97c4b15ea13d05cc4c1e8bc36087d76")).
+<!--[[[end]]] (checksum: 8e7d5fa15a1aecb2675025bb830ace43)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -17,11 +17,11 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 | [jmespath](https://github.com/jmespath/jmespath.py)                                | [1.0.1](https://pypi.org/project/jmespath/1.0.1/)     | MIT License | James Saryerwinnie | JSON Matching Expressions                                                                        |
 | [jsonschema](https://github.com/python-jsonschema/jsonschema/blob/main/README.rst) | [4.17.3](https://pypi.org/project/jsonschema/4.17.3/) | MIT License | Julian Berman      | An implementation of JSON Schema validation for Python                                           |
 | [lxml](https://lxml.de/)                                                           | [4.9.2](https://pypi.org/project/lxml/4.9.2/)         | BSD License | lxml dev team      | Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API. |
-| [msgspec](https://jcristharif.com/msgspec/)                                        | [0.11.0](https://pypi.org/project/msgspec/0.11.0/)    | BSD License | Jim Crist-Harif    | A fast and friendly JSON/MessagePack library, with optional schema validation                    |
+| [msgspec](https://jcristharif.com/msgspec/)                                        | [0.12.0](https://pypi.org/project/msgspec/0.12.0/)    | BSD License | Jim Crist-Harif    | A fast and friendly JSON/MessagePack library, with optional schema validation                    |
 | [toml](https://github.com/uiri/toml)                                               | [0.10.2](https://pypi.org/project/toml/0.10.2/)       | MIT License | William Pearson    | Python Library for Tom's Obvious, Minimal Language                                               |
 | [typer](https://github.com/tiangolo/typer)                                         | [0.7.0](https://pypi.org/project/typer/0.7.0/)        | MIT License | Sebastián Ramírez  | Typer, build great CLIs. Easy to code. Based on Python type hints.                               |
 | [xmlschema](https://github.com/sissaschool/xmlschema)                              | [2.1.1](https://pypi.org/project/xmlschema/2.1.1/)    | MIT License | Davide Brunato     | An XML Schema validator and decoder                                                              |
-<!--[[[end]]] (checksum: ddffa23948ec660a4fb0f901e3be778d)-->
+<!--[[[end]]] (checksum: 1a198569922e882ea06afbca870fdc67)-->
 
 ### Indirect Dependencies
 
@@ -54,7 +54,7 @@ jsonschema==4.17.3
   - attrs [required: >=17.4.0, installed: 22.2.0]
   - pyrsistent [required: >=0.14.0,!=0.17.2,!=0.17.1,!=0.17.0, installed: 0.19.2]
 lxml==4.9.2
-msgspec==0.11.0
+msgspec==0.12.0
 PyYAML==6.0
 toml==0.10.2
 typer==0.7.0
@@ -62,4 +62,4 @@ typer==0.7.0
 xmlschema==2.1.1
   - elementpath [required: >=3.0.0,<4.0.0, installed: 3.0.2]
 ````
-<!--[[[end]]] (checksum: 9cc48cb598e821108a11c2dc50bc2b3d)-->
+<!--[[[end]]] (checksum: beb2d6b796900e70a6e868e7dd01233b)-->
