@@ -4,7 +4,7 @@ Python implementation of interface operations for data driven topics.
 
 [License: MIT](https://git.sr.ht/~sthagen/portinvartija/tree/default/item/LICENSE)
 
-Third party dependencies are documented in the folder [third-party](third-party/README.md).
+Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
 
 [![version](https://img.shields.io/pypi/v/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
 [![downloads](https://pepy.tech/badge/portinvartija/month)](https://pepy.tech/project/portinvartija)
