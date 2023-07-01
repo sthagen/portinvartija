@@ -11,6 +11,7 @@ Third party dependencies are documented in the folder [third-party](third-party/
 [![wheel](https://img.shields.io/pypi/wheel/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
+[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/portinvartija.svg?style=flat)](https://git.sr.ht/~sthagen/portinvartija/log)
 
 ## Bug Tracker
 
