@@ -1,5 +1,7 @@
 site_name: Portinvartija
 site_description: "Python implementation of interface operations for data driven topics."
+docs_dir: ../docs
+site_dir: ../site
 
 theme:
   name: 'material'
