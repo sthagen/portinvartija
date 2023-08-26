@@ -7,7 +7,7 @@ Python implementation of interface operations for data driven topics.
 Third party dependencies are documented in the folder [third-party](third-party/README.md).
 
 [![version](https://img.shields.io/pypi/v/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
-[![downloads](https://pepy.tech/badge/portinvartija/month)](https://pepy.tech/project/portinvartija)
+[![downloads](https://static.pepy.tech/badge/portinvartija/month)](https://pepy.tech/project/portinvartija)
 [![wheel](https://img.shields.io/pypi/wheel/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
