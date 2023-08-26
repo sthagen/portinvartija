@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([1439c173 ...](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json.sha256 "sha256:1439c173ef1e6348fad88f83cee020e2282949c8f1c62d09e557ca8e2e24d641")).
-<!--[[[end]]] (checksum: 153489e11336fb6118a4161b7bc6f48a)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([1860cbb3 ...](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json.sha256 "sha256:1860cbb3b9d5950d85785c5802bff5b7b4d5470b906e050c72e54a1d560ba11b")).
+<!--[[[end]]] (checksum: e4f92c6320f7aeba1c49a5a61232d8bf)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -18,12 +18,12 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 | [jsonschema](https://github.com/python-jsonschema/jsonschema)   | [4.19.0](https://pypi.org/project/jsonschema/4.19.0/)  | MIT License | Julian Berman      | An implementation of JSON Schema validation for Python                                                   |
 | [kdl-py](https://github.com/tabatkins/kdlpy/)                   | [1.1.0](https://pypi.org/project/kdl-py/1.1.0/)        | MIT License | Tab Atkins-Bittner | A parser for the KDL language.                                                                           |
 | [lxml](https://lxml.de/)                                        | [4.9.3](https://pypi.org/project/lxml/4.9.3/)          | BSD License | lxml dev team      | Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.         |
-| [msgspec](https://jcristharif.com/msgspec/)                     | [0.18.1](https://pypi.org/project/msgspec/0.18.1/)     | BSD License | Jim Crist-Harif    | A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML. |
+| [msgspec](https://jcristharif.com/msgspec/)                     | [0.18.2](https://pypi.org/project/msgspec/0.18.2/)     | BSD License | Jim Crist-Harif    | A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML. |
 | [referencing](https://github.com/python-jsonschema/referencing) | [0.30.2](https://pypi.org/project/referencing/0.30.2/) | MIT License | Julian Berman      | JSON Referencing + Python                                                                                |
 | [toml](https://github.com/uiri/toml)                            | [0.10.2](https://pypi.org/project/toml/0.10.2/)        | MIT License | William Pearson    | Python Library for Tom's Obvious, Minimal Language                                                       |
 | [typer](https://github.com/tiangolo/typer)                      | [0.9.0](https://pypi.org/project/typer/0.9.0/)         | MIT License | Sebastián Ramírez  | Typer, build great CLIs. Easy to code. Based on Python type hints.                                       |
 | [xmlschema](https://github.com/sissaschool/xmlschema)           | [2.4.0](https://pypi.org/project/xmlschema/2.4.0/)     | MIT License | Davide Brunato     | An XML Schema validator and decoder                                                                      |
-<!--[[[end]]] (checksum: a2e3d0757231d2bd29856e2174703bcd)-->
+<!--[[[end]]] (checksum: 407d9d0028bbad8012eafae9edde8bfd)-->
 
 ### Indirect Dependencies
 
@@ -66,7 +66,7 @@ jsonschema==4.19.0
 └── rpds-py [required: >=0.7.1, installed: 0.9.2]
 kdl-py==1.1.0
 lxml==4.9.3
-msgspec==0.18.1
+msgspec==0.18.2
 PyYAML==6.0.1
 toml==0.10.2
 typer==0.9.0
@@ -75,4 +75,4 @@ typer==0.9.0
 xmlschema==2.4.0
 └── elementpath [required: >=4.1.5,<5.0.0, installed: 4.1.5]
 ````
-<!--[[[end]]] (checksum: 864980982f897f616712386301fa497d)-->
+<!--[[[end]]] (checksum: b9423c13fec2317223fd01d7b3f8722c)-->
