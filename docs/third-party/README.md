@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([1860cbb3 ...](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json.sha256 "sha256:1860cbb3b9d5950d85785c5802bff5b7b4d5470b906e050c72e54a1d560ba11b")).
-<!--[[[end]]] (checksum: e4f92c6320f7aeba1c49a5a61232d8bf)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([9b7ff2b3 ...](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json.sha256 "sha256:9b7ff2b38a6284338f3d284a0a6a6c9906d4b41deeb63caa6c1d6c41fa93ae19")).
+<!--[[[end]]] (checksum: ecf59ee485925f0098a5dbcc69ebfbd2)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -15,7 +15,7 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 | [PyYAML](https://pyyaml.org/)                                   | [6.0.1](https://pypi.org/project/PyYAML/6.0.1/)        | MIT License | Kirill Simonov     | YAML parser and emitter for Python                                                                       |
 | [first](http://github.com/hynek/first/)                         | [2.0.2](https://pypi.org/project/first/2.0.2/)         | MIT License | Hynek Schlawack    | Return the first true value of an iterable.                                                              |
 | [jmespath](https://github.com/jmespath/jmespath.py)             | [1.0.1](https://pypi.org/project/jmespath/1.0.1/)      | MIT License | James Saryerwinnie | JSON Matching Expressions                                                                                |
-| [jsonschema](https://github.com/python-jsonschema/jsonschema)   | [4.19.0](https://pypi.org/project/jsonschema/4.19.0/)  | MIT License | Julian Berman      | An implementation of JSON Schema validation for Python                                                   |
+| [jsonschema](https://github.com/python-jsonschema/jsonschema)   | [4.19.1](https://pypi.org/project/jsonschema/4.19.1/)  | MIT License | Julian Berman      | An implementation of JSON Schema validation for Python                                                   |
 | [kdl-py](https://github.com/tabatkins/kdlpy/)                   | [1.1.0](https://pypi.org/project/kdl-py/1.1.0/)        | MIT License | Tab Atkins-Bittner | A parser for the KDL language.                                                                           |
 | [lxml](https://lxml.de/)                                        | [4.9.3](https://pypi.org/project/lxml/4.9.3/)          | BSD License | lxml dev team      | Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.         |
 | [msgspec](https://jcristharif.com/msgspec/)                     | [0.18.2](https://pypi.org/project/msgspec/0.18.2/)     | BSD License | Jim Crist-Harif    | A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML. |
@@ -23,7 +23,7 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 | [toml](https://github.com/uiri/toml)                            | [0.10.2](https://pypi.org/project/toml/0.10.2/)        | MIT License | William Pearson    | Python Library for Tom's Obvious, Minimal Language                                                       |
 | [typer](https://github.com/tiangolo/typer)                      | [0.9.0](https://pypi.org/project/typer/0.9.0/)         | MIT License | Sebastián Ramírez  | Typer, build great CLIs. Easy to code. Based on Python type hints.                                       |
 | [xmlschema](https://github.com/sissaschool/xmlschema)           | [2.4.0](https://pypi.org/project/xmlschema/2.4.0/)     | MIT License | Davide Brunato     | An XML Schema validator and decoder                                                                      |
-<!--[[[end]]] (checksum: 407d9d0028bbad8012eafae9edde8bfd)-->
+<!--[[[end]]] (checksum: 0b2effdaaad76251f45506382989d803)-->
 
 ### Indirect Dependencies
 
@@ -54,7 +54,7 @@ Base graphviz file in dot format: [Trees of the direct dependencies](package-dep
 ````console
 first==2.0.2
 jmespath==1.0.1
-jsonschema==4.19.0
+jsonschema==4.19.1
 ├── attrs [required: >=22.2.0, installed: 23.1.0]
 ├── jsonschema-specifications [required: >=2023.03.6, installed: 2023.6.1]
 │   └── referencing [required: >=0.28.0, installed: 0.30.2]
@@ -75,4 +75,4 @@ typer==0.9.0
 xmlschema==2.4.0
 └── elementpath [required: >=4.1.5,<5.0.0, installed: 4.1.5]
 ````
-<!--[[[end]]] (checksum: b9423c13fec2317223fd01d7b3f8722c)-->
+<!--[[[end]]] (checksum: 8b08b12eae11df8cf7e2d3e605dcaf65)-->
