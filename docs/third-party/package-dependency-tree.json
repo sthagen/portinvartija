@@ -90,8 +90,8 @@
     {
         "key": "kdl-py",
         "package_name": "kdl-py",
-        "installed_version": "1.1.0",
-        "required_version": "1.1.0",
+        "installed_version": "1.1.2",
+        "required_version": "1.1.2",
         "dependencies": []
     },
     {
