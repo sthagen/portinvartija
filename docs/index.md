@@ -2,7 +2,9 @@
 
 Python implementation of interface operations for data driven topics.
 
-[License: MIT](https://git.sr.ht/~sthagen/portinvartija/tree/default/item/LICENSE)
+[License: MIT](https://git.sr.ht/~sthagen/portinvartija/tree/default/item/LICENSE) |
+[Country of origin: Switzerland](https://git.sr.ht/~sthagen/portinvartija/tree/default/item/COUNTRY-OF-ORIGIN) |
+[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/portinvartija/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
 
 Third party dependencies are documented in the folder [third-party](third-party/README.md).
 
