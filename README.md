@@ -2,18 +2,15 @@
 
 Python implementation of interface operations for data driven topics.
 
-[License: MIT](https://git.sr.ht/~sthagen/portinvartija/tree/default/item/LICENSE) | 
-[Country of origin: Switzerland](https://git.sr.ht/~sthagen/portinvartija/tree/default/item/COUNTRY-OF-ORIGIN) | 
-[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/portinvartija/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![License](docs/badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/portinvartija/tree/default/item/LICENSE)
+[![Country of Origin](docs/badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/portinvartija/tree/default/item/COUNTRY-OF-ORIGIN)
+[![Export Classification Control Number (ECCN)](docs/badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/portinvartija/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![Configuration](docs/badges/configuration-sbom.svg)](https://git.sr.ht/~sthagen/portinvartija/tree/default/item/docs/third-party/README.md)
 
-Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
-
-[![version](https://img.shields.io/pypi/v/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
-[![downloads](https://static.pepy.tech/badge/portinvartija/month)](https://pepy.tech/project/portinvartija)
-[![wheel](https://img.shields.io/pypi/wheel/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
-[![supported-versions](https://img.shields.io/pypi/pyversions/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
-[![supported-implementations](https://img.shields.io/pypi/implementation/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
-[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/portinvartija.svg?style=flat)](https://git.sr.ht/~sthagen/portinvartija/log)
+[![Version](https://img.shields.io/pypi/v/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
+[![Downloads](https://static.pepy.tech/badge/portinvartija/month)](https://pepy.tech/project/portinvartija)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
+[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/portinvartija.svg?style=flat)](https://git.sr.ht/~sthagen/portinvartija/log)
 
 ## Documentation
 
