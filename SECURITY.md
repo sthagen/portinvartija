@@ -5,9 +5,9 @@
 Versions of portinvartija currently being supported with security updates.
 
 | Version(s)   | Supported |
-|:------------ |:--------- |
-| 2022.12.27   | yes       |
-| < 2022.12.27 | no        |
+|:-------------|:----------|
+| 2023.10.29   | yes       |
+| < 2023.10.29 | no        |
 
 ## Reporting a Vulnerability
 

@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "portinvartija"
-version = "2022.12.27"
+version = "2023.10.29"
 description = "Python implementation of interface operations for data driven topics."
 readme = "README.md"
 authors = [{ name = "Stefan Hagen", email = "stefan@hagen.link" }]
