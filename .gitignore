@@ -134,3 +134,4 @@ dmypy.json
 local_*
 .vscode/
 current-bandit.json
+book
