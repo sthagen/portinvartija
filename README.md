@@ -7,7 +7,7 @@ Python implementation of interface operations for data driven topics.
 [![Export Classification Control Number (ECCN)](docs/badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/portinvartija/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
 [![Configuration](docs/badges/configuration-sbom.svg)](https://git.sr.ht/~sthagen/portinvartija/tree/default/item/docs/third-party/README.md)
 
-[![Version](https://img.shields.io/pypi/v/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
+[![Version](docs/badges/latest-release.svg)](https://pypi.python.org/pypi/portinvartija/)
 [![Downloads](docs/badges/downloads-per-month.svg)](https://pepy.tech/project/portinvartija)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
 [![Maintenance Status](docs/badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/portinvartija/log)
