@@ -9,7 +9,7 @@ Python implementation of interface operations for data driven topics.
 
 [![Version](badges/latest-release.svg)](https://pypi.python.org/pypi/portinvartija/)
 [![Downloads](badges/downloads-per-month.svg)](https://pepy.tech/project/portinvartija)
-[![Supported Versions](https://img.shields.io/pypi/pyversions/portinvartija.svg?style=flat)](https://pypi.python.org/pypi/portinvartija/)
+[![Python](badges/python-versions.svg)](https://pypi.python.org/pypi/portinvartija/)
 [![Maintenance Status](badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/portinvartija/log)
 
 ## Bug Tracker
