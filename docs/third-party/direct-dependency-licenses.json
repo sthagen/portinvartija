@@ -48,16 +48,16 @@
     "Version": "4.19.2"
   },
   {
-    "Author": "Tab Atkins-Bittner <jackalmage@gmail.com>",
-    "Description": "A parser for the KDL data language.",
+    "Author": "Tab Atkins-Bittner",
+    "Description": "A parser for the KDL language.",
     "License": "MIT License",
-    "LicenseFile": "/Users/ruth/.pyenv/versions/3.10.12/envs/portinvartija-3-10-12/lib/python3.10/site-packages/kdl_py-1.1.4.dist-info/LICENSE",
+    "LicenseFile": "/Users/ruth/.pyenv/versions/3.10.12/envs/portinvartija-3-10-12/lib/python3.10/site-packages/kdl_py-1.1.6.dist-info/LICENSE",
     "LicenseText": "MIT License\n\nCopyright (c) 2021 Tab Atkins Jr.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n",
     "Name": "kdl-py",
     "NoticeFile": "UNKNOWN",
     "NoticeText": "UNKNOWN",
     "URL": "https://github.com/tabatkins/kdlpy/",
-    "Version": "1.1.4"
+    "Version": "1.1.6"
   },
   {
     "Author": "lxml dev team",

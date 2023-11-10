@@ -90,17 +90,9 @@
     {
         "key": "kdl-py",
         "package_name": "kdl-py",
-        "installed_version": "1.1.4",
-        "required_version": "1.1.4",
-        "dependencies": [
-            {
-                "key": "setuptools",
-                "package_name": "setuptools",
-                "installed_version": "68.2.2",
-                "required_version": ">=68.0.0",
-                "dependencies": []
-            }
-        ]
+        "installed_version": "1.1.6",
+        "required_version": "1.1.6",
+        "dependencies": []
     },
     {
         "key": "lxml",
