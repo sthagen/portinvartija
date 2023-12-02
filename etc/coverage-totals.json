@@ -1,7 +1,7 @@
 {
   "portinvartija": {
-    "version": "7.3.2",
-    "timestamp": "2023-12-02T15:30:48.902222",
+    "coverage_tool_version": "7.3.2",
+    "timestamp": "2023-12-02 16:28:09 +00:00",
     "branch_coverage": true,
     "show_contexts": true,
     "covered_lines": 15,
@@ -13,6 +13,22 @@
     "num_branches": 2,
     "num_partial_branches": 0,
     "covered_branches": 2,
-    "missing_branches": 0
+    "missing_branches": 0,
+    "node_id": "c79891e5-aabf-3a83-95b9-588edcd8327f",
+    "nfiles": 3,
+    "files": [
+      "portinvartija/__init__.py",
+      "portinvartija/cli.py",
+      "portinvartija/portinvartija.py"
+    ],
+    "blake3": "ea639ab7fca12af0847cbbcfd609d6d962928e2a516cffaf26ab113c08e89827",
+    "blake2": "f6eb60b9cc446082b166186a71cd2fcd0d1654d1b0fe0af3cd6e1c89dcd4d85e9c9fb4a7827fa1e29f1883dbc6deb7f40931eff30a6ec014416cae211f8ae027",
+    "sha512": "3e2e2167ed49c3f91e0313fdc8f937a97b624fc473665d337f0ca717ae528575d1a4299397940320d81d488f3c8f49b036f6584028e91941d974f563493dbdae",
+    "sha384": "8cbe6cf354477fa39538064faef5664324aea0938f4f0eb88b108a7c130673a3c56e0c438e776a5e160ef6ce2de5af7d",
+    "sha256": "8734494375bc24ec7809fa450d621ab5cf8bd9f3a781b403649f365f08716f36",
+    "sha1": "0edce6305f6dc7cebd10b7969a4273431fa3a7d6",
+    "md5": "b47af131cff99ee3b6527ae0e0295222",
+    "python_version": "3.10.12",
+    "entropy": 4.829481
   }
 }
