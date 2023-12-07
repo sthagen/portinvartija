@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([d1507354 ...](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json.sha256 "sha256:d1507354bd24212611af1d02da8b7e37d14e8f3d46507dfd2d1d25cf28572b04")).
-<!--[[[end]]] (checksum: 50b772d4f07b86cb3d782e6bb10837fc)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([a31dc420 ...](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json.sha256 "sha256:a31dc4207639e134001bcf050869c41e2c5e3fbcc93a823116b1294b8bfdba9c")).
+<!--[[[end]]] (checksum: 731cb2063f78c60253330b6854dad612)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -19,11 +19,11 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 | [kdl-py](https://github.com/tabatkins/kdlpy/)                   | [1.1.6](https://pypi.org/project/kdl-py/1.1.6/)        | MIT License | Tab Atkins-Bittner | A parser for the KDL language.                                                                           |
 | [lxml](https://lxml.de/)                                        | [4.9.3](https://pypi.org/project/lxml/4.9.3/)          | BSD License | lxml dev team      | Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.         |
 | [msgspec](https://jcristharif.com/msgspec/)                     | [0.18.4](https://pypi.org/project/msgspec/0.18.4/)     | BSD License | Jim Crist-Harif    | A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML. |
-| [referencing](https://github.com/python-jsonschema/referencing) | [0.31.1](https://pypi.org/project/referencing/0.31.1/) | MIT License | Julian Berman      | JSON Referencing + Python                                                                                |
+| [referencing](https://github.com/python-jsonschema/referencing) | [0.32.0](https://pypi.org/project/referencing/0.32.0/) | MIT License | Julian Berman      | JSON Referencing + Python                                                                                |
 | [toml](https://github.com/uiri/toml)                            | [0.10.2](https://pypi.org/project/toml/0.10.2/)        | MIT License | William Pearson    | Python Library for Tom's Obvious, Minimal Language                                                       |
 | [typer](https://github.com/tiangolo/typer)                      | [0.9.0](https://pypi.org/project/typer/0.9.0/)         | MIT License | Sebastián Ramírez  | Typer, build great CLIs. Easy to code. Based on Python type hints.                                       |
 | [xmlschema](https://github.com/sissaschool/xmlschema)           | [2.5.0](https://pypi.org/project/xmlschema/2.5.0/)     | MIT License | Davide Brunato     | An XML Schema validator and decoder                                                                      |
-<!--[[[end]]] (checksum: 69d360fc1b79f6c1eebb2fccadd12586)-->
+<!--[[[end]]] (checksum: d06f4ce8f6ca623223f46430d94a022b)-->
 
 ### Indirect Dependencies
 
@@ -57,10 +57,10 @@ jmespath==1.0.1
 jsonschema==4.20.0
 ├── attrs [required: >=22.2.0, installed: 23.1.0]
 ├── jsonschema-specifications [required: >=2023.03.6, installed: 2023.6.1]
-│   └── referencing [required: >=0.28.0, installed: 0.31.1]
+│   └── referencing [required: >=0.28.0, installed: 0.32.0]
 │       ├── attrs [required: >=22.2.0, installed: 23.1.0]
 │       └── rpds-py [required: >=0.7.0, installed: 0.9.2]
-├── referencing [required: >=0.28.4, installed: 0.31.1]
+├── referencing [required: >=0.28.4, installed: 0.32.0]
 │   ├── attrs [required: >=22.2.0, installed: 23.1.0]
 │   └── rpds-py [required: >=0.7.0, installed: 0.9.2]
 └── rpds-py [required: >=0.7.1, installed: 0.9.2]
@@ -75,4 +75,4 @@ typer==0.9.0
 xmlschema==2.5.0
 └── elementpath [required: >=4.1.5,<5.0.0, installed: 4.1.5]
 ````
-<!--[[[end]]] (checksum: 498584318b0dfdcbdb12c9d7b1d6d1bb)-->
+<!--[[[end]]] (checksum: e3aa54a8370cf288ddb85dfbc7bb1dbd)-->
