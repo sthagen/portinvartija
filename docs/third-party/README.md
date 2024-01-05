@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([31aedf53 ...](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json.sha256 "sha256:31aedf532efdb6744ff9aff2988ab2504ac4755d2bff4bd66356091ef42ff7a6")).
-<!--[[[end]]] (checksum: e902fd63c06a72197bd1dc57680f821c)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([c9c2e131 ...](https://git.sr.ht/~sthagen/portinvartija/blob/default/etc/sbom/cdx.json.sha256 "sha256:c9c2e13183b4ec0f3ddd033bc0115741961f92fe210ab19dc1d8c82a6a1085ca")).
+<!--[[[end]]] (checksum: b0ef1297a2a62b93c89e77ade2c3ae30)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -19,24 +19,24 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 | [kdl-py](https://github.com/tabatkins/kdlpy/)                   | [1.1.6](https://pypi.org/project/kdl-py/1.1.6/)        | MIT License | Tab Atkins-Bittner | A parser for the KDL language.                                                                           |
 | [lxml](https://lxml.de/)                                        | [5.0.0](https://pypi.org/project/lxml/5.0.0/)          | BSD License | lxml dev team      | Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.         |
 | [msgspec](https://jcristharif.com/msgspec/)                     | [0.18.5](https://pypi.org/project/msgspec/0.18.5/)     | BSD License | Jim Crist-Harif    | A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML. |
-| [referencing](https://github.com/python-jsonschema/referencing) | [0.32.0](https://pypi.org/project/referencing/0.32.0/) | MIT License | Julian Berman      | JSON Referencing + Python                                                                                |
+| [referencing](https://github.com/python-jsonschema/referencing) | [0.32.1](https://pypi.org/project/referencing/0.32.1/) | MIT License | Julian Berman      | JSON Referencing + Python                                                                                |
 | [toml](https://github.com/uiri/toml)                            | [0.10.2](https://pypi.org/project/toml/0.10.2/)        | MIT License | William Pearson    | Python Library for Tom's Obvious, Minimal Language                                                       |
 | [typer](https://github.com/tiangolo/typer)                      | [0.9.0](https://pypi.org/project/typer/0.9.0/)         | MIT License | Sebastián Ramírez  | Typer, build great CLIs. Easy to code. Based on Python type hints.                                       |
 | [xmlschema](https://github.com/sissaschool/xmlschema)           | [2.5.1](https://pypi.org/project/xmlschema/2.5.1/)     | MIT License | Davide Brunato     | An XML Schema validator and decoder                                                                      |
-<!--[[[end]]] (checksum: dfcdb62bd3a11cef876dc8fc91d10cfb)-->
+<!--[[[end]]] (checksum: 2d749de27c0e12712c4eb2ccae6ba69c)-->
 
 ### Indirect Dependencies
 
 <!--[[[fill indirect_dependencies_table()]]]-->
 | Name                                                                                        | Version                                                                  | License                            | Author                                                                                | Description (from packaging data)                                    |
 |:--------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------|:-----------------------------------|:--------------------------------------------------------------------------------------|:---------------------------------------------------------------------|
-| [attrs](https://www.attrs.org/en/stable/changelog.html)                                     | [23.1.0](https://pypi.org/project/attrs/23.1.0/)                         | MIT License                        | Hynek Schlawack <hs@ox.cx>                                                            | Classes Without Boilerplate                                          |
+| [attrs](https://www.attrs.org/en/stable/changelog.html)                                     | [23.2.0](https://pypi.org/project/attrs/23.2.0/)                         | MIT License                        | Hynek Schlawack <hs@ox.cx>                                                            | Classes Without Boilerplate                                          |
 | [click](https://palletsprojects.com/p/click/)                                               | [8.1.5](https://pypi.org/project/click/8.1.5/)                           | BSD License                        | Pallets <contact@palletsprojects.com>                                                 | Composable command line interface toolkit                            |
 | [elementpath](https://github.com/sissaschool/elementpath)                                   | [4.1.5](https://pypi.org/project/elementpath/4.1.5/)                     | MIT License                        | Davide Brunato                                                                        | XPath 1.0/2.0/3.0/3.1 parsers and selectors for ElementTree and lxml |
 | [jsonschema-specifications](https://github.com/python-jsonschema/jsonschema-specifications) | [2023.6.1](https://pypi.org/project/jsonschema-specifications/2023.6.1/) | MIT License                        | Julian Berman                                                                         | The JSON Schema meta-schemas and vocabularies, exposed as a Registry |
 | [rpds-py](https://github.com/crate-py/rpds)                                                 | [0.9.2](https://pypi.org/project/rpds-py/0.9.2/)                         | MIT License                        | Julian Berman                                                                         | Python bindings to Rust's persistent data structures (rpds)          |
 | [typing_extensions](https://github.com/python/typing_extensions)                            | [4.7.1](https://pypi.org/project/typing_extensions/4.7.1/)               | Python Software Foundation License | "Guido van Rossum, Jukka Lehtosalo, Łukasz Langa, Michael Lee" <levkivskyi@gmail.com> | Backported and Experimental Type Hints for Python 3.7+               |
-<!--[[[end]]] (checksum: 8a0cecc1de4a36c8aa0f8cd0651f5df8)-->
+<!--[[[end]]] (checksum: 2e95bc819cc51e9f8ae09533817672cd)-->
 
 ## Dependency Tree(s)
 
@@ -55,13 +55,13 @@ Base graphviz file in dot format: [Trees of the direct dependencies](package-dep
 first==2.0.2
 jmespath==1.0.1
 jsonschema==4.20.0
-├── attrs [required: >=22.2.0, installed: 23.1.0]
+├── attrs [required: >=22.2.0, installed: 23.2.0]
 ├── jsonschema-specifications [required: >=2023.03.6, installed: 2023.6.1]
-│   └── referencing [required: >=0.28.0, installed: 0.32.0]
-│       ├── attrs [required: >=22.2.0, installed: 23.1.0]
+│   └── referencing [required: >=0.28.0, installed: 0.32.1]
+│       ├── attrs [required: >=22.2.0, installed: 23.2.0]
 │       └── rpds-py [required: >=0.7.0, installed: 0.9.2]
-├── referencing [required: >=0.28.4, installed: 0.32.0]
-│   ├── attrs [required: >=22.2.0, installed: 23.1.0]
+├── referencing [required: >=0.28.4, installed: 0.32.1]
+│   ├── attrs [required: >=22.2.0, installed: 23.2.0]
 │   └── rpds-py [required: >=0.7.0, installed: 0.9.2]
 └── rpds-py [required: >=0.7.1, installed: 0.9.2]
 kdl-py==1.1.6
@@ -75,4 +75,4 @@ typer==0.9.0
 xmlschema==2.5.1
 └── elementpath [required: >=4.1.5,<5.0.0, installed: 4.1.5]
 ````
-<!--[[[end]]] (checksum: 3719618a20d65b9ddc9900a956e24518)-->
+<!--[[[end]]] (checksum: d20a81cedab80a047ca1d187ed6fa1c4)-->
