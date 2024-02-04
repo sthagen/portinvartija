@@ -1,11 +1,11 @@
 PyYAML==6.0.1
 first==2.0.2
 jmespath==1.0.1
-jsonschema==4.20.0
-kdl-py==1.1.6
-lxml==5.0.1
-msgspec==0.18.5
-referencing==0.32.1
+jsonschema==4.21.1
+kdl-py==1.2.0
+lxml==5.1.0
+msgspec==0.18.6
+referencing==0.33.0
 toml==0.10.2
 typer==0.9.0
-xmlschema==3.0.0
+xmlschema==3.0.1
