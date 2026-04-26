@@ -3,7 +3,7 @@ first==2.0.2
 jmespath==1.1.0
 jsonschema==4.26.0
 kdl-py==1.2.0
-lxml==6.0.2
+lxml==6.0.3
 msgspec==0.20.0
 referencing==0.37.0
 toml==0.10.2
